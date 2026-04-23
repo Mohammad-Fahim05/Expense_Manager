@@ -88,7 +88,7 @@ JWT_SECRET=any_long_random_string_here_make_it_complex
 > 5. Connect → Drivers → Copy the connection string
 > 6. Replace `<password>` with your actual password
 
----
+--- ..
 
 ### Step 3 — Run Backend
 
